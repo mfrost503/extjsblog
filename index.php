@@ -50,7 +50,6 @@ var viewPort = new Ext.Viewport({
     border:true,
     layout:'border',
     items:[grid],
-    renderTo:'port'
 });
 
 });
@@ -58,8 +57,6 @@ var viewPort = new Ext.Viewport({
 </script>
 </head>
 
-<body>
-<div id="port"></div>
-</body>
+<body></body>
 
 </html>
