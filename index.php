@@ -4,7 +4,7 @@
 <base href="http://localhost/extjsblog/"/>
 <script type="text/javascript" src="scripts/ext-3.3.0/adapter/ext/ext-base.js"></script>
 <script type="text/javascript" src="scripts/ext-3.3.0/ext-all-debug.js"></script>
-<link rel="stylesheet" href="scripts/ext-3.3.0/resources/css/ext-all.css" type="text/css"/>
+<link rel="stylesheet" href="scripts/ext-3.3.0/resources/css/xtheme-access.css" type="text/css"/>
 
 <script type="text/javascript">
 Ext.onReady(function() {
